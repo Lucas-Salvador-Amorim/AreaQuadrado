@@ -3,5 +3,7 @@ public class Mensagem{
     public static void main(String[] args){
         System.out.println("Fatec Pompeia");
         System.out.println("Fatec Pompeia2");
+        int idade = 19;
+        System.out.println("Lucas tem " + idade + " anos.");
     }
 }
