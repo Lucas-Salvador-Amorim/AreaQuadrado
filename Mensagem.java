@@ -1,3 +1,5 @@
+import java.util.Scanner;
+Scanner entrada = new Scanner(System.in);
 public class Mensagem{
 
     public static void main(String[] args){
@@ -9,6 +11,8 @@ public class Mensagem{
        
         double media = 7.55;
         System.out.printf("Média = %.2f", media);
+        
+    
         
     }
 }

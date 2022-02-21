@@ -1,7 +1,11 @@
+import java.util.Scanner;
+
 public class AreaQuadrada {
     public static void main(String[] args){
-        double media = 7.55;
-        System.out.printf("Média = %.2f", media);
-        System.out.println("Testando");
-    }   
+
+        Scanner entrada = new Scanner(System.in);
+        int num;
+        System.out.println("Digite um valor inteiro: ");
+        num = entrada.nextInt();
+     }
 }
