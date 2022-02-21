@@ -6,6 +6,7 @@ public class Mensagem{
         int idade = 19;
         System.out.println("Lucas tem " + idade + " anos.");
         System.out.println("Lucas tem " + idade + " +12 anos.");
+       
         double media = 7.55;
         System.out.printf("Média = %.2f", media);
         
